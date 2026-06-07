@@ -1,0 +1,6 @@
+{
+  "name": "Open When",
+  "description": "An interactive sweet collection of digital Open When letters and envelopes for your girlfriend, looking romantic and feminine with pastel themes, floating heart animations, and smooth transitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
